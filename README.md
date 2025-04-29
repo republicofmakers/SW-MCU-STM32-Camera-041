@@ -42,6 +42,6 @@ You can edit code for better qualitly.
 
 Hope this helps you.
 
-STM32 Camera Module
+STM32 Camera Modules
 
 Ceyhun Pempeci
